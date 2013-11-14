@@ -1,2 +1,0 @@
-recursive-include testB *
-global-exclude *pyc

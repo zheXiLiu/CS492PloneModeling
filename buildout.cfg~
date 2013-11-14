@@ -104,7 +104,7 @@ develop =
      src/testA.TestA
      src/testB.TestB
      src/testC.TestC
-     src/ SeniorProject.PloneAddOn
+     src/SeniorProject.PloneAddOn
 
 ############################################
 # var Directory
