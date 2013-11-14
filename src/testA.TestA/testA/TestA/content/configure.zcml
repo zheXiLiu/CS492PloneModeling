@@ -1,0 +1,22 @@
+<configure
+    xmlns="http://namespaces.zope.org/zope"
+    xmlns:five="http://namespaces.zope.org/five"
+    i18n_domain="testA.TestA">
+
+  <!-- configure your content components here -->
+  
+  <!-- -*- extra stuff goes here -*- -->
+  <class class=".job.Job">
+    <require
+        permission="zope2.View"
+        interface="..interfaces.IJob"
+        />
+  </class>
+  <class class=".virtualmachine.VirtualMachine">
+    <require
+        permission="zope2.View"
+        interface="..interfaces.IVirtualMachine"
+        />
+  </class>
+
+</configure>

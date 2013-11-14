@@ -1,0 +1,54 @@
+<configure
+    xmlns="http://namespaces.zope.org/zope"
+    xmlns:five="http://namespaces.zope.org/five"
+    xmlns:browser="http://namespaces.zope.org/browser"
+    xmlns:i18n="http://namespaces.zope.org/i18n"
+    xmlns:genericsetup="http://namespaces.zope.org/genericsetup"
+    xmlns:grok="http://namespaces.zope.org/grok"
+    xmlns:plone="http://namespaces.plone.org/plone"
+    i18n_domain="SeniorProject.PloneAddOn">
+
+  <!-- Include configuration for dependencies listed in setup.py -->
+  <includeDependencies package="." />
+
+  <!-- Grok the package to initialize schema interfaces and content classes -->
+  <grok:grok package="." />
+
+  <include package="plone.app.relationfield" />
+
+  <!-- Register a resource directory from which we can deploy static
+   resource files. -->
+  <browser:resourceDirectory
+    name="SeniorProject.PloneAddOn"
+    directory="resources" />
+
+  <browser:page
+    name="jobs_view"
+    for="*"
+    permission="zope2.View"
+    class=".jobs_view.JobsView"
+     allowed_attributes="portal_state"
+    />
+   
+   <browser:page
+  	for="*"
+ 	name="hello"
+  	permission="zope.Public"
+         class=".browser.HelloView"
+  />
+
+  <i18n:registerTranslations directory="locales" />
+
+  <!-- Register an extension profile to make the product installable
+       in Plone -->
+  <genericsetup:registerProfile
+      name="default"
+      title="CS492 senior project plone add on - Zhexi Liu"
+      directory="profiles/default"
+      description="Extension profile for CS492 senior project plone add on - Zhexi Liu"
+      provides="Products.GenericSetup.interfaces.EXTENSION"
+      />
+
+  <!-- -*- extra stuff goes here -*- -->
+
+</configure>

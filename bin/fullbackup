@@ -1,0 +1,59 @@
+#!/home/liu275/Plone/Python-2.7/bin/python
+
+import sys
+sys.path[0:0] = [
+    '/home/liu275/Plone/buildout-cache/eggs/collective.recipe.backup-2.14-py2.7.egg',
+    '/home/liu275/Plone/buildout-cache/eggs/zc.buildout-1.7.1-py2.7.egg',
+    '/home/liu275/Plone/buildout-cache/eggs/zc.recipe.egg-1.3.2-py2.7.egg',
+    '/home/liu275/Plone/buildout-cache/eggs/distribute-0.6.28-py2.7.egg',
+    ]
+
+
+
+import logging
+loglevel = logging.INFO
+from optparse import OptionParser
+parser = OptionParser()
+# parser.add_option("-S", "--storage", dest="storage",
+#                  action="store", type="string",
+#                  help="storage name")
+parser.add_option("-q", "--quiet",
+                  action="store_false", dest="verbose", default=True,
+                  help="don't print status messages to stdout")
+parser.add_option("-n", "--no-prompt",
+                  action="store_true", dest="no_prompt", default=False,
+                  help="don't ask for any user confirmation")
+(options, args) = parser.parse_args()
+# storage = options.storage
+# Allow the user to make the script more quiet (say in a cronjob):
+if not options.verbose:
+    loglevel = logging.WARN
+logging.basicConfig(level=loglevel,
+    format='%(levelname)s: %(message)s')
+
+
+import collective.recipe.backup.main
+
+if __name__ == '__main__':
+    sys.exit(collective.recipe.backup.main.fullbackup_main(
+        bin_dir='/home/liu275/Plone/zinstance/bin',
+        storages=[{'backup_location': '/home/liu275/Plone/zinstance/var/backups',
+  'blob_backup_location': '/home/liu275/Plone/zinstance/var/blobstoragebackups',
+  'blob_snapshot_location': '/home/liu275/Plone/zinstance/var/blobstoragesnapshots',
+  'blobdir': '/home/liu275/Plone/zinstance/var/blobstorage',
+  'datafs': '/home/liu275/Plone/zinstance/var/filestorage/Data.fs',
+  'snapshot_location': '/home/liu275/Plone/zinstance/var/snapshotbackups',
+  'storage': '1'}],
+        keep=2,
+        keep_blob_days=14,
+        full=False,
+        verbose=False,
+        gzip=True,
+        only_blobs=False,
+        backup_blobs=True,
+        use_rsync=True,
+        gzip_blob=False,
+        pre_command='',
+        post_command='',
+        no_prompt=options.no_prompt,
+        ))

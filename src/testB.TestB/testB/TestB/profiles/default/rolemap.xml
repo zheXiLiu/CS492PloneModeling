@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<rolemap>
+  <permissions>
+    <!-- -*- extra stuff goes here -*- -->
+    <permission name="testB.TestB: Add VirtualMachine" acquire="True">
+      <role name="Manager" />
+      <role name="Contributor" />
+    </permission>
+ 
+  <permission
+         name="testB.TestB:AddSuperContent"
+         acquire="True">
+         <role name="Manager" />
+         <role name="Contributor" />
+         </permission>
+  </permissions>
+</rolemap>

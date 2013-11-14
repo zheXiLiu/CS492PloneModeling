@@ -1,0 +1,4 @@
+setuptools
+plone.app.dexterity [grok, relations]
+plone.app.relationfield
+plone.namedfile [blobs]
