@@ -27,7 +27,16 @@
     for="*"
     permission="zope2.View"
     class=".jobs_view.JobsView"
-     allowed_attributes="portal_state"
+  
+    />
+
+
+    <browser:page
+    name="query_view"
+    for="*"
+    permission="zope2.View"
+    class=".query_view.QueryView"
+ 
     />
    
    <browser:page

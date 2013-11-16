@@ -34,16 +34,31 @@ def status_compare(x, y):
     else:
 	return 0
 
+def get_job_query(self):
+    """
+    Check the current user (The one who logged in). 
+    If curUser is one of the Site Adminstrarors, display all the jobs.
+    Else, only display the jobs created by the current user.
+    """
+    context = aq_inner(self.context)
+    catalog = getToolByName(context, 'portal_catalog')
+    mt =  getToolByName(self, 'portal_membership') 
+    currentUser = mt.getAuthenticatedMember() 
+    print  currentUser.getGroups()
+
+    if "Site Administrators" not in currentUser.getGroups():
+	return catalog.searchResults(portal_type= 'SeniorProject.PloneAddOn.job', 				 Creator = currentUser.getUserName())
+    else: 
+        return catalog.searchResults(portal_type= 'SeniorProject.PloneAddOn.job')
+
+
 class JobsView(BrowserView):
 
     template = ViewPageTemplateFile('jobs_view.pt')
 
-
     def __call__(self):    
-	context = aq_inner(self.context)
-        catalog = getToolByName(context, 'portal_catalog')
-	
-	all_jobs = catalog.searchResults(portal_type= 'SeniorProject.PloneAddOn.job')
+		
+	all_jobs = get_job_query(self)
 	retStringg = ""
 	joblist=[]
 	for brain in all_jobs:
@@ -55,8 +70,12 @@ class JobsView(BrowserView):
 	self.all_jobs = getattr(self.context, 'all_jobss', joblist)
 	return self.template()
     
+
+    
+       
+        
+
     def do_status_compare(self):
-	joblist.sort(status_compare)
-        print 'aaaaaaaaaaaaaaaaaaa'
-        self.all_jobs = getattr(self.context, 'all_jobss', joblist)
+	print 'Doing status compare..'
+      
   

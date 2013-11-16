@@ -29,6 +29,7 @@ job_status_list = SimpleVocabulary(
     [SimpleTerm(value=u'Queued', title=_(u'Queued')),
      SimpleTerm(value=u'Started', title=_(u'Started')),
      SimpleTerm(value=u'Finished', title=_(u'Finished')),
+     SimpleTerm(value=u'Running', title=_(u'Running')),
      SimpleTerm(value=u'Terminated', title=_(u'Terminated')),
      SimpleTerm(value=u'Pending', title=_(u'Pending'))]
     )
@@ -47,8 +48,6 @@ class IJob(form.Schema, IImageScaleTraversable):
 
     #form.model("models/job.xml")
     
-   
-
     job_status = schema.Choice(
             title=_(u"Job Status"),
             vocabulary=job_status_list,

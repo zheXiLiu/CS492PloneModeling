@@ -17401,3 +17401,898 @@ NameError: global name 'joblist' is not defined
 ------
 2013-11-14T14:35:41 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_base_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
 
+------
+2013-11-16T01:32:45 INFO SignalHandler Caught signal SIGTERM
+------
+2013-11-16T01:32:45 INFO Z2 Shutting down fast
+------
+2013-11-16T01:32:45 INFO ZServer closing HTTP to new connections
+------
+2013-11-16T01:32:57 INFO ZServer HTTP server started at Sat Nov 16 01:32:57 2013
+	Hostname: 0.0.0.0
+	Port: 8080
+------
+2013-11-16T01:32:58 INFO Products.PloneFormGen gpg_subprocess initialized, using /usr/bin/gpg
+------
+2013-11-16T01:33:46 INFO ZServer HTTP server started at Sat Nov 16 01:33:46 2013
+	Hostname: 0.0.0.0
+	Port: 8080
+------
+2013-11-16T01:33:47 INFO Products.PloneFormGen gpg_subprocess initialized, using /usr/bin/gpg
+------
+2013-11-16T01:33:51 WARNING Init Class Products.Five.metaclass.JobsView has a security declaration for nonexistent method 'portal_state'
+------
+2013-11-16T01:33:51 INFO PloneFormGen Patching plone.app.portlets ColumnPortletManagerRenderer to not catch Retry exceptions
+------
+2013-11-16T01:33:51 INFO Zope Ready to handle requests
+------
+2013-11-16T01:34:11 INFO SignalHandler Caught signal SIGINT
+------
+2013-11-16T01:34:11 INFO Z2 Shutting down
+------
+2013-11-16T01:34:23 INFO ZServer HTTP server started at Sat Nov 16 01:34:23 2013
+	Hostname: 0.0.0.0
+	Port: 8080
+------
+2013-11-16T01:34:24 INFO Products.PloneFormGen gpg_subprocess initialized, using /usr/bin/gpg
+------
+2013-11-16T01:34:59 INFO ZServer HTTP server started at Sat Nov 16 01:34:59 2013
+	Hostname: 0.0.0.0
+	Port: 8080
+------
+2013-11-16T01:35:00 INFO Products.PloneFormGen gpg_subprocess initialized, using /usr/bin/gpg
+------
+2013-11-16T01:35:04 WARNING Init Class Products.Five.metaclass.JobsView has a security declaration for nonexistent method 'portal_state'
+------
+2013-11-16T01:35:04 INFO PloneFormGen Patching plone.app.portlets ColumnPortletManagerRenderer to not catch Retry exceptions
+------
+2013-11-16T01:35:04 INFO Zope Ready to handle requests
+------
+2013-11-16T01:35:05 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_embedded_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
+
+------
+2013-11-16T01:35:05 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_embedded_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
+
+------
+2013-11-16T01:35:05 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_base_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
+
+------
+2013-11-16T01:35:05 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_base_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
+
+------
+2013-11-16T01:38:10 INFO SignalHandler Caught signal SIGINT
+------
+2013-11-16T01:38:10 INFO Z2 Shutting down
+------
+2013-11-16T01:41:55 INFO ZServer HTTP server started at Sat Nov 16 01:41:55 2013
+	Hostname: 0.0.0.0
+	Port: 8080
+------
+2013-11-16T01:41:56 INFO Products.PloneFormGen gpg_subprocess initialized, using /usr/bin/gpg
+------
+2013-11-16T01:42:47 INFO ZServer HTTP server started at Sat Nov 16 01:42:47 2013
+	Hostname: 0.0.0.0
+	Port: 8080
+------
+2013-11-16T01:42:49 INFO Products.PloneFormGen gpg_subprocess initialized, using /usr/bin/gpg
+------
+2013-11-16T01:42:52 WARNING Init Class Products.Five.metaclass.JobsView has a security declaration for nonexistent method 'portal_state'
+------
+2013-11-16T01:42:52 WARNING Init Class Products.Five.metaclass.QueryView has a security declaration for nonexistent method 'portal_state'
+------
+2013-11-16T01:42:52 INFO PloneFormGen Patching plone.app.portlets ColumnPortletManagerRenderer to not catch Retry exceptions
+------
+2013-11-16T01:42:52 INFO Zope Ready to handle requests
+------
+2013-11-16T01:42:53 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_embedded_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
+
+------
+2013-11-16T01:42:53 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_embedded_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
+
+------
+2013-11-16T01:42:53 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_base_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
+
+------
+2013-11-16T01:42:53 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_base_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
+
+------
+2013-11-16T01:43:48 INFO SignalHandler Caught signal SIGINT
+------
+2013-11-16T01:43:48 INFO Z2 Shutting down
+------
+2013-11-16T01:43:59 INFO ZServer HTTP server started at Sat Nov 16 01:43:59 2013
+	Hostname: 0.0.0.0
+	Port: 8080
+------
+2013-11-16T01:44:01 INFO Products.PloneFormGen gpg_subprocess initialized, using /usr/bin/gpg
+------
+2013-11-16T01:44:04 WARNING Init Class Products.Five.metaclass.JobsView has a security declaration for nonexistent method 'portal_state'
+------
+2013-11-16T01:44:04 WARNING Init Class Products.Five.metaclass.QueryView has a security declaration for nonexistent method 'portal_state'
+------
+2013-11-16T01:44:04 INFO PloneFormGen Patching plone.app.portlets ColumnPortletManagerRenderer to not catch Retry exceptions
+------
+2013-11-16T01:44:04 INFO Zope Ready to handle requests
+------
+2013-11-16T01:46:02 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_embedded_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
+
+------
+2013-11-16T01:46:02 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_embedded_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
+
+------
+2013-11-16T01:46:02 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_base_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
+
+------
+2013-11-16T01:46:02 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_base_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
+
+------
+2013-11-16T01:46:18 ERROR Zope.SiteErrorLog 1384587978.130.679778668501 http://141.142.240.89:8080/Plone/@@query_view
+Traceback (innermost last):
+  Module ZPublisher.Publish, line 138, in publish
+  Module ZPublisher.mapply, line 77, in mapply
+  Module ZPublisher.Publish, line 48, in call_object
+  Module SeniorProject.PloneAddOn.query_view, line 31, in __call__
+NameError: global name 'time_compare' is not defined
+------
+2013-11-16T01:46:41 INFO SignalHandler Caught signal SIGINT
+------
+2013-11-16T01:46:41 INFO Z2 Shutting down
+------
+2013-11-16T01:46:52 INFO ZServer HTTP server started at Sat Nov 16 01:46:52 2013
+	Hostname: 0.0.0.0
+	Port: 8080
+------
+2013-11-16T01:46:53 INFO Products.PloneFormGen gpg_subprocess initialized, using /usr/bin/gpg
+------
+2013-11-16T01:46:57 WARNING Init Class Products.Five.metaclass.JobsView has a security declaration for nonexistent method 'portal_state'
+------
+2013-11-16T01:46:57 WARNING Init Class Products.Five.metaclass.QueryView has a security declaration for nonexistent method 'portal_state'
+------
+2013-11-16T01:46:57 INFO PloneFormGen Patching plone.app.portlets ColumnPortletManagerRenderer to not catch Retry exceptions
+------
+2013-11-16T01:46:57 INFO Zope Ready to handle requests
+------
+2013-11-16T01:46:57 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_embedded_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
+
+------
+2013-11-16T01:46:57 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_embedded_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
+
+------
+2013-11-16T01:46:57 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_base_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
+
+------
+2013-11-16T01:46:57 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_base_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
+
+------
+2013-11-16T01:49:41 INFO SignalHandler Caught signal SIGINT
+------
+2013-11-16T01:49:41 INFO Z2 Shutting down
+------
+2013-11-16T01:49:53 INFO ZServer HTTP server started at Sat Nov 16 01:49:53 2013
+	Hostname: 0.0.0.0
+	Port: 8080
+------
+2013-11-16T01:49:54 INFO Products.PloneFormGen gpg_subprocess initialized, using /usr/bin/gpg
+------
+2013-11-16T01:49:57 WARNING Init Class Products.Five.metaclass.JobsView has a security declaration for nonexistent method 'portal_state'
+------
+2013-11-16T01:49:57 WARNING Init Class Products.Five.metaclass.QueryView has a security declaration for nonexistent method 'portal_state'
+------
+2013-11-16T01:49:57 INFO PloneFormGen Patching plone.app.portlets ColumnPortletManagerRenderer to not catch Retry exceptions
+------
+2013-11-16T01:49:57 INFO Zope Ready to handle requests
+------
+2013-11-16T01:49:58 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_embedded_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
+
+------
+2013-11-16T01:49:58 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_embedded_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
+
+------
+2013-11-16T01:49:58 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_base_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
+
+------
+2013-11-16T01:49:58 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_base_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
+
+------
+2013-11-16T01:50:08 INFO SignalHandler Caught signal SIGINT
+------
+2013-11-16T01:50:08 INFO Z2 Shutting down
+------
+2013-11-16T01:50:30 INFO ZServer HTTP server started at Sat Nov 16 01:50:30 2013
+	Hostname: 0.0.0.0
+	Port: 8080
+------
+2013-11-16T01:50:31 INFO Products.PloneFormGen gpg_subprocess initialized, using /usr/bin/gpg
+------
+2013-11-16T01:50:34 WARNING Init Class Products.Five.metaclass.JobsView has a security declaration for nonexistent method 'portal_state'
+------
+2013-11-16T01:50:34 WARNING Init Class Products.Five.metaclass.QueryView has a security declaration for nonexistent method 'portal_state'
+------
+2013-11-16T01:50:35 INFO PloneFormGen Patching plone.app.portlets ColumnPortletManagerRenderer to not catch Retry exceptions
+------
+2013-11-16T01:50:35 INFO Zope Ready to handle requests
+------
+2013-11-16T01:50:50 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_embedded_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
+
+------
+2013-11-16T01:50:50 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_embedded_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
+
+------
+2013-11-16T01:50:50 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_base_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
+
+------
+2013-11-16T01:50:50 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_base_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
+
+------
+2013-11-16T01:51:11 INFO SignalHandler Caught signal SIGINT
+------
+2013-11-16T01:51:11 INFO Z2 Shutting down
+------
+2013-11-16T01:51:22 INFO ZServer HTTP server started at Sat Nov 16 01:51:22 2013
+	Hostname: 0.0.0.0
+	Port: 8080
+------
+2013-11-16T01:51:23 INFO Products.PloneFormGen gpg_subprocess initialized, using /usr/bin/gpg
+------
+2013-11-16T01:51:26 WARNING Init Class Products.Five.metaclass.JobsView has a security declaration for nonexistent method 'portal_state'
+------
+2013-11-16T01:51:26 WARNING Init Class Products.Five.metaclass.QueryView has a security declaration for nonexistent method 'portal_state'
+------
+2013-11-16T01:51:27 INFO PloneFormGen Patching plone.app.portlets ColumnPortletManagerRenderer to not catch Retry exceptions
+------
+2013-11-16T01:51:27 INFO Zope Ready to handle requests
+------
+2013-11-16T01:51:27 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_embedded_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
+
+------
+2013-11-16T01:51:27 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_embedded_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
+
+------
+2013-11-16T01:51:27 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_base_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
+
+------
+2013-11-16T01:51:27 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_base_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
+
+------
+2013-11-16T01:51:35 INFO SignalHandler Caught signal SIGINT
+------
+2013-11-16T01:51:35 INFO Z2 Shutting down
+------
+2013-11-16T01:52:39 INFO ZServer HTTP server started at Sat Nov 16 01:52:39 2013
+	Hostname: 0.0.0.0
+	Port: 8080
+------
+2013-11-16T01:52:40 INFO Products.PloneFormGen gpg_subprocess initialized, using /usr/bin/gpg
+------
+2013-11-16T01:52:44 WARNING Init Class Products.Five.metaclass.JobsView has a security declaration for nonexistent method 'portal_state'
+------
+2013-11-16T01:52:44 WARNING Init Class Products.Five.metaclass.QueryView has a security declaration for nonexistent method 'portal_state'
+------
+2013-11-16T01:52:44 INFO PloneFormGen Patching plone.app.portlets ColumnPortletManagerRenderer to not catch Retry exceptions
+------
+2013-11-16T01:52:44 INFO Zope Ready to handle requests
+------
+2013-11-16T01:52:46 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_embedded_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
+
+------
+2013-11-16T01:52:46 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_embedded_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
+
+------
+2013-11-16T01:52:46 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_base_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
+
+------
+2013-11-16T01:52:46 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_base_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
+
+------
+2013-11-16T01:52:54 INFO SignalHandler Caught signal SIGINT
+------
+2013-11-16T01:52:54 INFO Z2 Shutting down
+------
+2013-11-16T01:53:21 INFO ZServer HTTP server started at Sat Nov 16 01:53:21 2013
+	Hostname: 0.0.0.0
+	Port: 8080
+------
+2013-11-16T01:53:22 INFO Products.PloneFormGen gpg_subprocess initialized, using /usr/bin/gpg
+------
+2013-11-16T01:53:26 WARNING Init Class Products.Five.metaclass.JobsView has a security declaration for nonexistent method 'portal_state'
+------
+2013-11-16T01:53:26 WARNING Init Class Products.Five.metaclass.QueryView has a security declaration for nonexistent method 'portal_state'
+------
+2013-11-16T01:53:26 INFO PloneFormGen Patching plone.app.portlets ColumnPortletManagerRenderer to not catch Retry exceptions
+------
+2013-11-16T01:53:26 INFO Zope Ready to handle requests
+------
+2013-11-16T01:53:26 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_embedded_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
+
+------
+2013-11-16T01:53:26 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_embedded_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
+
+------
+2013-11-16T01:53:26 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_base_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
+
+------
+2013-11-16T01:53:26 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_base_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
+
+------
+2013-11-16T01:53:32 INFO SignalHandler Caught signal SIGINT
+------
+2013-11-16T01:53:32 INFO Z2 Shutting down
+------
+2013-11-16T01:56:30 INFO ZServer HTTP server started at Sat Nov 16 01:56:30 2013
+	Hostname: 0.0.0.0
+	Port: 8080
+------
+2013-11-16T01:56:31 INFO Products.PloneFormGen gpg_subprocess initialized, using /usr/bin/gpg
+------
+2013-11-16T02:01:10 INFO ZServer HTTP server started at Sat Nov 16 02:01:10 2013
+	Hostname: 0.0.0.0
+	Port: 8080
+------
+2013-11-16T02:01:12 INFO Products.PloneFormGen gpg_subprocess initialized, using /usr/bin/gpg
+------
+2013-11-16T02:01:15 WARNING Init Class Products.Five.metaclass.JobsView has a security declaration for nonexistent method 'portal_state'
+------
+2013-11-16T02:01:15 WARNING Init Class Products.Five.metaclass.QueryView has a security declaration for nonexistent method 'portal_state'
+------
+2013-11-16T02:01:15 INFO PloneFormGen Patching plone.app.portlets ColumnPortletManagerRenderer to not catch Retry exceptions
+------
+2013-11-16T02:01:15 INFO Zope Ready to handle requests
+------
+2013-11-16T02:01:17 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_embedded_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
+
+------
+2013-11-16T02:01:17 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_embedded_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
+
+------
+2013-11-16T02:01:17 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_base_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
+
+------
+2013-11-16T02:01:17 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_base_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
+
+------
+2013-11-16T02:01:17 ERROR Zope.SiteErrorLog 1384588877.250.0459332847173 http://141.142.240.89:8080/Plone/@@query_view
+Traceback (innermost last):
+  Module ZPublisher.Publish, line 138, in publish
+  Module ZPublisher.mapply, line 77, in mapply
+  Module ZPublisher.Publish, line 48, in call_object
+  Module SeniorProject.PloneAddOn.query_view, line 27, in __call__
+NameError: global name 'api' is not defined
+------
+2013-11-16T02:02:19 INFO SignalHandler Caught signal SIGINT
+------
+2013-11-16T02:02:19 INFO Z2 Shutting down
+------
+2013-11-16T02:05:56 INFO ZServer HTTP server started at Sat Nov 16 02:05:56 2013
+	Hostname: 0.0.0.0
+	Port: 8080
+------
+2013-11-16T02:05:57 INFO Products.PloneFormGen gpg_subprocess initialized, using /usr/bin/gpg
+------
+2013-11-16T02:16:57 INFO ZServer HTTP server started at Sat Nov 16 02:16:57 2013
+	Hostname: 0.0.0.0
+	Port: 8080
+------
+2013-11-16T02:16:58 INFO Products.PloneFormGen gpg_subprocess initialized, using /usr/bin/gpg
+------
+2013-11-16T02:18:06 INFO ZServer HTTP server started at Sat Nov 16 02:18:06 2013
+	Hostname: 0.0.0.0
+	Port: 8080
+------
+2013-11-16T02:18:07 INFO Products.PloneFormGen gpg_subprocess initialized, using /usr/bin/gpg
+------
+2013-11-16T02:18:10 WARNING Init Class Products.Five.metaclass.JobsView has a security declaration for nonexistent method 'portal_state'
+------
+2013-11-16T02:18:10 WARNING Init Class Products.Five.metaclass.QueryView has a security declaration for nonexistent method 'portal_state'
+------
+2013-11-16T02:18:11 INFO PloneFormGen Patching plone.app.portlets ColumnPortletManagerRenderer to not catch Retry exceptions
+------
+2013-11-16T02:18:11 INFO Zope Ready to handle requests
+------
+2013-11-16T02:18:38 INFO SignalHandler Caught signal SIGINT
+------
+2013-11-16T02:18:38 INFO Z2 Shutting down
+------
+2013-11-16T02:19:16 INFO ZServer HTTP server started at Sat Nov 16 02:19:16 2013
+	Hostname: 0.0.0.0
+	Port: 8080
+------
+2013-11-16T02:19:17 INFO Products.PloneFormGen gpg_subprocess initialized, using /usr/bin/gpg
+------
+2013-11-16T02:19:21 WARNING Init Class Products.Five.metaclass.JobsView has a security declaration for nonexistent method 'portal_state'
+------
+2013-11-16T02:19:21 WARNING Init Class Products.Five.metaclass.QueryView has a security declaration for nonexistent method 'portal_state'
+------
+2013-11-16T02:19:21 INFO PloneFormGen Patching plone.app.portlets ColumnPortletManagerRenderer to not catch Retry exceptions
+------
+2013-11-16T02:19:21 INFO Zope Ready to handle requests
+------
+2013-11-16T02:19:51 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_embedded_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
+
+------
+2013-11-16T02:19:51 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_embedded_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
+
+------
+2013-11-16T02:19:51 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_base_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
+
+------
+2013-11-16T02:19:51 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_base_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
+
+------
+2013-11-16T02:20:03 ERROR Zope.SiteErrorLog 1384590003.320.0076829203833 http://141.142.240.89:8080/Plone/@@query_view
+Traceback (innermost last):
+  Module ZPublisher.Publish, line 138, in publish
+  Module ZPublisher.mapply, line 77, in mapply
+  Module ZPublisher.Publish, line 48, in call_object
+  Module SeniorProject.PloneAddOn.query_view, line 27, in __call__
+NameError: global name 'api' is not defined
+------
+2013-11-16T02:20:37 INFO SignalHandler Caught signal SIGINT
+------
+2013-11-16T02:20:37 INFO Z2 Shutting down
+------
+2013-11-16T02:20:48 INFO ZServer HTTP server started at Sat Nov 16 02:20:48 2013
+	Hostname: 0.0.0.0
+	Port: 8080
+------
+2013-11-16T02:20:49 INFO Products.PloneFormGen gpg_subprocess initialized, using /usr/bin/gpg
+------
+2013-11-16T02:21:16 INFO ZServer HTTP server started at Sat Nov 16 02:21:16 2013
+	Hostname: 0.0.0.0
+	Port: 8080
+------
+2013-11-16T02:21:17 INFO Products.PloneFormGen gpg_subprocess initialized, using /usr/bin/gpg
+------
+2013-11-16T02:21:21 INFO PloneFormGen Patching plone.app.portlets ColumnPortletManagerRenderer to not catch Retry exceptions
+------
+2013-11-16T02:21:21 INFO Zope Ready to handle requests
+------
+2013-11-16T02:21:21 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_embedded_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
+
+------
+2013-11-16T02:21:21 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_embedded_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
+
+------
+2013-11-16T02:21:21 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_base_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
+
+------
+2013-11-16T02:21:21 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_base_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
+
+------
+2013-11-16T02:21:21 ERROR Zope.SiteErrorLog 1384590081.80.599219349701 http://141.142.240.89:8080/Plone/@@query_view
+Traceback (innermost last):
+  Module ZPublisher.Publish, line 138, in publish
+  Module ZPublisher.mapply, line 77, in mapply
+  Module ZPublisher.Publish, line 48, in call_object
+  Module SeniorProject.PloneAddOn.query_view, line 27, in __call__
+NameError: global name 'plone' is not defined
+------
+2013-11-16T02:21:28 INFO SignalHandler Caught signal SIGINT
+------
+2013-11-16T02:21:28 INFO Z2 Shutting down
+------
+2013-11-16T02:24:54 INFO ZServer HTTP server started at Sat Nov 16 02:24:54 2013
+	Hostname: 0.0.0.0
+	Port: 8080
+------
+2013-11-16T02:24:55 INFO Products.PloneFormGen gpg_subprocess initialized, using /usr/bin/gpg
+------
+2013-11-16T02:24:59 INFO PloneFormGen Patching plone.app.portlets ColumnPortletManagerRenderer to not catch Retry exceptions
+------
+2013-11-16T02:24:59 INFO Zope Ready to handle requests
+------
+2013-11-16T02:25:56 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_embedded_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
+
+------
+2013-11-16T02:25:56 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_embedded_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
+
+------
+2013-11-16T02:25:56 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_base_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
+
+------
+2013-11-16T02:25:56 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_base_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
+
+------
+2013-11-16T02:29:25 INFO SignalHandler Caught signal SIGINT
+------
+2013-11-16T02:29:25 INFO Z2 Shutting down
+------
+2013-11-16T02:29:36 INFO ZServer HTTP server started at Sat Nov 16 02:29:36 2013
+	Hostname: 0.0.0.0
+	Port: 8080
+------
+2013-11-16T02:29:38 INFO Products.PloneFormGen gpg_subprocess initialized, using /usr/bin/gpg
+------
+2013-11-16T02:29:41 INFO PloneFormGen Patching plone.app.portlets ColumnPortletManagerRenderer to not catch Retry exceptions
+------
+2013-11-16T02:29:41 INFO Zope Ready to handle requests
+------
+2013-11-16T02:29:44 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_embedded_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
+
+------
+2013-11-16T02:29:44 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_embedded_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
+
+------
+2013-11-16T02:29:44 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_base_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
+
+------
+2013-11-16T02:29:44 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_base_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
+
+------
+2013-11-16T02:30:41 INFO SignalHandler Caught signal SIGINT
+------
+2013-11-16T02:30:41 INFO Z2 Shutting down
+------
+2013-11-16T02:30:52 INFO ZServer HTTP server started at Sat Nov 16 02:30:52 2013
+	Hostname: 0.0.0.0
+	Port: 8080
+------
+2013-11-16T02:30:53 INFO Products.PloneFormGen gpg_subprocess initialized, using /usr/bin/gpg
+------
+2013-11-16T02:30:57 INFO PloneFormGen Patching plone.app.portlets ColumnPortletManagerRenderer to not catch Retry exceptions
+------
+2013-11-16T02:30:57 INFO Zope Ready to handle requests
+------
+2013-11-16T02:30:57 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_embedded_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
+
+------
+2013-11-16T02:30:57 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_embedded_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
+
+------
+2013-11-16T02:30:57 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_base_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
+
+------
+2013-11-16T02:30:57 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_base_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
+
+------
+2013-11-16T02:40:18 INFO SignalHandler Caught signal SIGINT
+------
+2013-11-16T02:40:18 INFO Z2 Shutting down
+------
+2013-11-16T02:54:48 INFO ZServer HTTP server started at Sat Nov 16 02:54:48 2013
+	Hostname: 0.0.0.0
+	Port: 8080
+------
+2013-11-16T02:54:49 INFO Products.PloneFormGen gpg_subprocess initialized, using /usr/bin/gpg
+------
+2013-11-16T02:55:43 INFO ZServer HTTP server started at Sat Nov 16 02:55:43 2013
+	Hostname: 0.0.0.0
+	Port: 8080
+------
+2013-11-16T02:55:44 INFO Products.PloneFormGen gpg_subprocess initialized, using /usr/bin/gpg
+------
+2013-11-16T02:56:18 INFO ZServer HTTP server started at Sat Nov 16 02:56:18 2013
+	Hostname: 0.0.0.0
+	Port: 8080
+------
+2013-11-16T02:56:20 INFO Products.PloneFormGen gpg_subprocess initialized, using /usr/bin/gpg
+------
+2013-11-16T02:56:23 INFO PloneFormGen Patching plone.app.portlets ColumnPortletManagerRenderer to not catch Retry exceptions
+------
+2013-11-16T02:56:23 INFO Zope Ready to handle requests
+------
+2013-11-16T02:56:24 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_embedded_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
+
+------
+2013-11-16T02:56:24 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_embedded_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
+
+------
+2013-11-16T02:56:24 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_base_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
+
+------
+2013-11-16T02:56:24 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_base_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
+
+------
+2013-11-16T02:56:24 ERROR Zope.SiteErrorLog 1384592184.050.889840328778 http://141.142.240.89:8080/Plone/@@jobs_view
+Traceback (innermost last):
+  Module ZPublisher.Publish, line 138, in publish
+  Module ZPublisher.mapply, line 77, in mapply
+  Module ZPublisher.Publish, line 48, in call_object
+  Module SeniorProject.PloneAddOn.jobs_view, line 44, in __call__
+NameError: global name 'get_job_query' is not defined
+------
+2013-11-16T02:56:31 INFO SignalHandler Caught signal SIGINT
+------
+2013-11-16T02:56:31 INFO Z2 Shutting down
+------
+2013-11-16T02:56:59 INFO ZServer HTTP server started at Sat Nov 16 02:56:59 2013
+	Hostname: 0.0.0.0
+	Port: 8080
+------
+2013-11-16T02:57:00 INFO Products.PloneFormGen gpg_subprocess initialized, using /usr/bin/gpg
+------
+2013-11-16T02:57:04 INFO PloneFormGen Patching plone.app.portlets ColumnPortletManagerRenderer to not catch Retry exceptions
+------
+2013-11-16T02:57:04 INFO Zope Ready to handle requests
+------
+2013-11-16T02:57:04 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_embedded_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
+
+------
+2013-11-16T02:57:04 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_embedded_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
+
+------
+2013-11-16T02:57:04 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_base_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
+
+------
+2013-11-16T02:57:04 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_base_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
+
+------
+2013-11-16T02:57:04 ERROR Zope.SiteErrorLog 1384592224.280.757043455566 http://141.142.240.89:8080/Plone/@@jobs_view
+Traceback (innermost last):
+  Module ZPublisher.Publish, line 138, in publish
+  Module ZPublisher.mapply, line 77, in mapply
+  Module ZPublisher.Publish, line 48, in call_object
+  Module SeniorProject.PloneAddOn.jobs_view, line 44, in __call__
+NameError: global name 'get_job_query' is not defined
+------
+2013-11-16T03:00:19 INFO SignalHandler Caught signal SIGINT
+------
+2013-11-16T03:00:19 INFO Z2 Shutting down
+------
+2013-11-16T03:00:30 INFO ZServer HTTP server started at Sat Nov 16 03:00:30 2013
+	Hostname: 0.0.0.0
+	Port: 8080
+------
+2013-11-16T03:00:31 INFO Products.PloneFormGen gpg_subprocess initialized, using /usr/bin/gpg
+------
+2013-11-16T03:00:35 INFO PloneFormGen Patching plone.app.portlets ColumnPortletManagerRenderer to not catch Retry exceptions
+------
+2013-11-16T03:00:35 INFO Zope Ready to handle requests
+------
+2013-11-16T03:01:03 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_embedded_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
+
+------
+2013-11-16T03:01:03 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_embedded_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
+
+------
+2013-11-16T03:01:03 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_base_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
+
+------
+2013-11-16T03:01:03 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_base_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
+
+------
+2013-11-16T03:01:03 ERROR Zope.SiteErrorLog 1384592463.250.878999777593 http://141.142.240.89:8080/Plone/@@jobs_view
+Traceback (innermost last):
+  Module ZPublisher.Publish, line 138, in publish
+  Module ZPublisher.mapply, line 77, in mapply
+  Module ZPublisher.Publish, line 48, in call_object
+  Module SeniorProject.PloneAddOn.jobs_view, line 60, in __call__
+TypeError: get_job_query() takes exactly 1 argument (0 given)
+------
+2013-11-16T03:01:09 INFO SignalHandler Caught signal SIGINT
+------
+2013-11-16T03:01:09 INFO Z2 Shutting down
+------
+2013-11-16T03:01:33 INFO ZServer HTTP server started at Sat Nov 16 03:01:33 2013
+	Hostname: 0.0.0.0
+	Port: 8080
+------
+2013-11-16T03:01:34 INFO Products.PloneFormGen gpg_subprocess initialized, using /usr/bin/gpg
+------
+2013-11-16T03:01:38 INFO PloneFormGen Patching plone.app.portlets ColumnPortletManagerRenderer to not catch Retry exceptions
+------
+2013-11-16T03:01:38 INFO Zope Ready to handle requests
+------
+2013-11-16T03:01:38 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_embedded_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
+
+------
+2013-11-16T03:01:38 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_embedded_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
+
+------
+2013-11-16T03:01:38 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_base_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
+
+------
+2013-11-16T03:01:38 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_base_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
+
+------
+2013-11-16T03:01:38 ERROR Zope.SiteErrorLog 1384592498.650.328464821557 http://141.142.240.89:8080/Plone/@@jobs_view
+Traceback (innermost last):
+  Module ZPublisher.Publish, line 138, in publish
+  Module ZPublisher.mapply, line 77, in mapply
+  Module ZPublisher.Publish, line 48, in call_object
+  Module SeniorProject.PloneAddOn.jobs_view, line 60, in __call__
+  Module SeniorProject.PloneAddOn.jobs_view, line 43, in get_job_query
+NameError: global name 'self' is not defined
+------
+2013-11-16T03:01:42 INFO SignalHandler Caught signal SIGINT
+------
+2013-11-16T03:01:42 INFO Z2 Shutting down
+------
+2013-11-16T03:02:11 INFO ZServer HTTP server started at Sat Nov 16 03:02:11 2013
+	Hostname: 0.0.0.0
+	Port: 8080
+------
+2013-11-16T03:02:12 INFO Products.PloneFormGen gpg_subprocess initialized, using /usr/bin/gpg
+------
+2013-11-16T03:02:16 INFO PloneFormGen Patching plone.app.portlets ColumnPortletManagerRenderer to not catch Retry exceptions
+------
+2013-11-16T03:02:16 INFO Zope Ready to handle requests
+------
+2013-11-16T03:02:16 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_embedded_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
+
+------
+2013-11-16T03:02:16 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_embedded_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
+
+------
+2013-11-16T03:02:16 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_base_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
+
+------
+2013-11-16T03:02:16 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_base_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
+
+------
+2013-11-16T03:03:01 INFO SignalHandler Caught signal SIGINT
+------
+2013-11-16T03:03:01 INFO Z2 Shutting down
+------
+2013-11-16T03:03:12 INFO ZServer HTTP server started at Sat Nov 16 03:03:12 2013
+	Hostname: 0.0.0.0
+	Port: 8080
+------
+2013-11-16T03:03:14 INFO Products.PloneFormGen gpg_subprocess initialized, using /usr/bin/gpg
+------
+2013-11-16T03:03:17 INFO PloneFormGen Patching plone.app.portlets ColumnPortletManagerRenderer to not catch Retry exceptions
+------
+2013-11-16T03:03:17 INFO Zope Ready to handle requests
+------
+2013-11-16T03:03:18 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_embedded_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
+
+------
+2013-11-16T03:03:18 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_embedded_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
+
+------
+2013-11-16T03:03:18 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_base_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
+
+------
+2013-11-16T03:03:18 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_base_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
+
+------
+2013-11-16T03:03:24 INFO SignalHandler Caught signal SIGINT
+------
+2013-11-16T03:03:24 INFO Z2 Shutting down
+------
+2013-11-16T03:03:55 INFO ZServer HTTP server started at Sat Nov 16 03:03:55 2013
+	Hostname: 0.0.0.0
+	Port: 8080
+------
+2013-11-16T03:03:56 INFO Products.PloneFormGen gpg_subprocess initialized, using /usr/bin/gpg
+------
+2013-11-16T03:04:00 INFO PloneFormGen Patching plone.app.portlets ColumnPortletManagerRenderer to not catch Retry exceptions
+------
+2013-11-16T03:04:00 INFO Zope Ready to handle requests
+------
+2013-11-16T03:04:00 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_embedded_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
+
+------
+2013-11-16T03:04:00 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_embedded_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
+
+------
+2013-11-16T03:04:00 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_base_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
+
+------
+2013-11-16T03:04:00 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_base_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
+
+------
+2013-11-16T03:04:10 INFO SignalHandler Caught signal SIGINT
+------
+2013-11-16T03:04:10 INFO Z2 Shutting down
+------
+2013-11-16T03:05:19 INFO ZServer HTTP server started at Sat Nov 16 03:05:19 2013
+	Hostname: 0.0.0.0
+	Port: 8080
+------
+2013-11-16T03:05:20 INFO Products.PloneFormGen gpg_subprocess initialized, using /usr/bin/gpg
+------
+2013-11-16T03:05:24 INFO PloneFormGen Patching plone.app.portlets ColumnPortletManagerRenderer to not catch Retry exceptions
+------
+2013-11-16T03:05:24 INFO Zope Ready to handle requests
+------
+2013-11-16T03:05:24 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_embedded_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
+
+------
+2013-11-16T03:05:24 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_embedded_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
+
+------
+2013-11-16T03:05:24 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_base_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
+
+------
+2013-11-16T03:05:24 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_base_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
+
+------
+2013-11-16T03:05:47 INFO SignalHandler Caught signal SIGINT
+------
+2013-11-16T03:05:47 INFO Z2 Shutting down
+------
+2013-11-16T03:05:58 INFO ZServer HTTP server started at Sat Nov 16 03:05:58 2013
+	Hostname: 0.0.0.0
+	Port: 8080
+------
+2013-11-16T03:05:59 INFO Products.PloneFormGen gpg_subprocess initialized, using /usr/bin/gpg
+------
+2013-11-16T03:06:03 INFO PloneFormGen Patching plone.app.portlets ColumnPortletManagerRenderer to not catch Retry exceptions
+------
+2013-11-16T03:06:03 INFO Zope Ready to handle requests
+------
+2013-11-16T03:06:06 INFO SignalHandler Caught signal SIGINT
+------
+2013-11-16T03:06:06 INFO Z2 Shutting down
+------
+2013-11-16T03:06:28 INFO ZServer HTTP server started at Sat Nov 16 03:06:28 2013
+	Hostname: 0.0.0.0
+	Port: 8080
+------
+2013-11-16T03:06:29 INFO Products.PloneFormGen gpg_subprocess initialized, using /usr/bin/gpg
+------
+2013-11-16T03:06:32 INFO PloneFormGen Patching plone.app.portlets ColumnPortletManagerRenderer to not catch Retry exceptions
+------
+2013-11-16T03:06:33 INFO Zope Ready to handle requests
+------
+2013-11-16T03:06:33 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_embedded_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
+
+------
+2013-11-16T03:06:33 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_embedded_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
+
+------
+2013-11-16T03:06:33 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_base_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
+
+------
+2013-11-16T03:06:33 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_base_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
+
+------
+2013-11-16T03:08:46 INFO SignalHandler Caught signal SIGINT
+------
+2013-11-16T03:08:46 INFO Z2 Shutting down
+------
+2013-11-16T03:09:58 INFO ZServer HTTP server started at Sat Nov 16 03:09:58 2013
+	Hostname: 0.0.0.0
+	Port: 8080
+------
+2013-11-16T03:09:59 INFO Products.PloneFormGen gpg_subprocess initialized, using /usr/bin/gpg
+------
+2013-11-16T03:10:02 INFO PloneFormGen Patching plone.app.portlets ColumnPortletManagerRenderer to not catch Retry exceptions
+------
+2013-11-16T03:10:03 INFO Zope Ready to handle requests
+------
+2013-11-16T03:10:03 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_embedded_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
+
+------
+2013-11-16T03:10:03 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_embedded_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
+
+------
+2013-11-16T03:10:03 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_base_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
+
+------
+2013-11-16T03:10:03 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_base_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
+
+------
+2013-11-16T03:10:24 INFO SignalHandler Caught signal SIGINT
+------
+2013-11-16T03:10:24 INFO Z2 Shutting down
+------
+2013-11-16T03:10:44 INFO ZServer HTTP server started at Sat Nov 16 03:10:44 2013
+	Hostname: 0.0.0.0
+	Port: 8080
+------
+2013-11-16T03:10:45 INFO Products.PloneFormGen gpg_subprocess initialized, using /usr/bin/gpg
+------
+2013-11-16T03:10:48 INFO PloneFormGen Patching plone.app.portlets ColumnPortletManagerRenderer to not catch Retry exceptions
+------
+2013-11-16T03:10:48 INFO Zope Ready to handle requests
+------
+2013-11-16T03:10:49 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_embedded_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
+
+------
+2013-11-16T03:10:49 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_embedded_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
+
+------
+2013-11-16T03:10:49 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_base_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
+
+------
+2013-11-16T03:10:49 INFO CMFFormController /home/liu275/Plone/buildout-cache/eggs/Products.PloneFormGen-1.7.12-py2.7.egg/Products/PloneFormGen/skins/PloneFormGen/fg_base_view_p3.cpt: No default action specified for status success, content type ANY.  Users of IE can submit pages using the return key, resulting in no button in the REQUEST.  Please specify a default action for this case. 
+
+------
+2013-11-16T03:11:18 INFO SignalHandler Caught signal SIGINT
+------
+2013-11-16T03:11:18 INFO Z2 Shutting down
+------
+2013-11-16T03:11:28 INFO ZServer HTTP server started at Sat Nov 16 03:11:28 2013
+	Hostname: 0.0.0.0
+	Port: 8080

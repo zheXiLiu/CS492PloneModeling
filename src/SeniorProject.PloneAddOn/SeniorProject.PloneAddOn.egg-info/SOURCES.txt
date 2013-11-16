@@ -15,5 +15,6 @@ SeniorProject/PloneAddOn/__init__.py
 SeniorProject/PloneAddOn/browser.py
 SeniorProject/PloneAddOn/job.py
 SeniorProject/PloneAddOn/jobs_view.py
+SeniorProject/PloneAddOn/query_view.py
 SeniorProject/PloneAddOn/tests.py
 SeniorProject/PloneAddOn/virtual_machine.py

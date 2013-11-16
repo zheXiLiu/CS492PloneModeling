@@ -30,6 +30,22 @@
      allowed_attributes="portal_state"
     />
 
+
+    <browser:page
+    name="query_view"
+    for="*"
+    permission="zope2.View"
+    class=".query_view.QueryView"
+     allowed_attributes="portal_state"
+    />
+   
+   <browser:page
+  	for="*"
+ 	name="hello"
+  	permission="zope.Public"
+         class=".browser.HelloView"
+  />
+
   <i18n:registerTranslations directory="locales" />
 
   <!-- Register an extension profile to make the product installable
