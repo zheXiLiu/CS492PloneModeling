@@ -1,0 +1,7 @@
+*.pyc
+src/SeniorProject.PloneAddOn/SeniorProject.PloneAddOn.egg-info/
+bin
+develop-eggs/
+eggs/
+*.egg/
+
